@@ -165,8 +165,10 @@ while(True):
         Networkinfo()
     elif(i==6):
         memoryinfo()
-    else:
+    elif(i==7):
         break
+    else:
+        print("invalid input")
 
     print("==========================================================================")
 
