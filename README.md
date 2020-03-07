@@ -26,6 +26,15 @@ https://psutil.readthedocs.io/en/latest/
 ![](images/memory.png)
 
 
+### networkinfo
+
+
+![](images/network.png)
+
+
+
+
+
 
 
 
