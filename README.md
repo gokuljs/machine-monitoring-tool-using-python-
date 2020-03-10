@@ -7,6 +7,7 @@ https://psutil.readthedocs.io/en/latest/
 1: https://www.python.org/downloads/   \
 2: install pip      \
 3: install package called psutil (pip install psutil)
+4: run the program py monitor.py
 
 ### systeminfo
 
